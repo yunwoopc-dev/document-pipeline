@@ -13,11 +13,10 @@
         <toc-element topic="Tutorial.md"/>
         <toc-element topic="Starter.md"/>
     </toc-element>
-
-    <toc-element toc-title="pipeline.md">
-        <toc-element topic="How-to.md"/>
-        <toc-element topic="Reference.md"/>
-        <toc-element topic="Overview.md"/>
-        <toc-element topic="Tutorial.md"/>
-    </toc-element>
+<!--    <toc-element toc-title="pipeline.md">-->
+<!--        <toc-element topic="How-to.md"/>-->
+<!--        <toc-element topic="Reference.md"/>-->
+<!--        <toc-element topic="Overview.md"/>-->
+<!--        <toc-element topic="Tutorial.md"/>-->
+<!--    </toc-element>-->
 </instance-profile>
