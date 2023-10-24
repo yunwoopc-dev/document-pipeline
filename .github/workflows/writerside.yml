@@ -28,10 +28,6 @@ jobs:
         - name: Checkout repository
           uses: actions/checkout@v3
 
-        - name: Git Config
-          run: 
-            chmod 744 -R /github/workspace
-
         - name: Build Writerside docs using Docker
           uses: JetBrains/writerside-github-action@v4
           with:
