@@ -9,4 +9,8 @@
 {style="note"}
 
 
-Download <res resource-id="sample">
+Download 
+
+<res resource-id="sample"/>
+
+and fill in the form.
