@@ -65,7 +65,7 @@ jobs:
     deploy:
         environment:
             name: github-pages
-            url: ${{ steps.deployment.outputs.page_url }}
+            url: ${{ steps.deployment.outputs.page_url }}${{github.ref_name}}
         # Requires the build job results
         needs: test
         runs-on: ubuntu-latest
